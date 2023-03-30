@@ -1,0 +1,47 @@
+[
+    {
+       "id": "6425c8e1e1488e8a516f84f5",
+       "picture": "https://img.freepik.com/free-photo/programming-background-collage_23-2149901789.jpg?w=996&t=st=1680204967~exp=1680205567~hmac=692aede50aca0456c0407955a4edffcbf98327cc43dd626489227323f0a2a824",
+       "authorPic": "https://img.freepik.com/free-photo/smiling-senior-businessman-using-digital-tablet_1262-2358.jpg?w=996&t=st=1680205276~exp=1680205876~hmac=40746c17bf051efa5be8246716f670b9f7f1387f2b85a9d63ef9c8795b9cb4a9",
+       "BlogName": "How to get your first job as a self-taught programmer",
+       "name": "Wilcox Frazier",
+       "time": "{integer(0, 60)}",
+       "date": "2023-03-21"
+    },
+    {
+       "id": "6425c8e1b4eff8b36da187a1",
+       "picture": "https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010140.jpg?w=996&t=st=1680205134~exp=1680205734~hmac=6ba9286571dcc7163a9fe407e45c27cf39d3ac9f6cd9ea1eb876e675a9061b4f",
+       "authorPic": "https://img.freepik.com/free-photo/woman-using-tablet_53876-105182.jpg?w=996&t=st=1680205280~exp=1680205880~hmac=15857dff72ef9de421e12b14690e6b74d625585c70a4fc52a8cdc1c4aa1805b2",
+       "BlogName": "How to get Develope skill as a new programmer",
+       "name": "Franco Camacho",
+       "time": "{integer(0, 60)}",
+       "date": "2022-10-31"
+    },
+    {
+       "id": "6425c8e16a6c17fc1384a128",
+       "picture": "https://img.freepik.com/free-photo/hacker-working-darkness_53876-94580.jpg?size=626&ext=jpg",
+       "authorPic": "https://img.freepik.com/free-photo/middle-aged-business-woman-her-office-smart-woman_482257-25807.jpg?w=360&t=st=1680205366~exp=1680205966~hmac=fd6bd77d33b323da3985818fcd61fb95c785156bbde11260610618b8e570e6e0",
+       "BlogName": "How to be creative while Coding",
+       "name": "Lolita Ramos",
+       "time": "{integer(0, 60)}",
+       "date": "2022-06-01"
+    },
+    {
+       "id": "6425c8e1f4510ea70dd082c9",
+       "picture": "https://img.freepik.com/free-photo/close-up-man-writing-code-laptop_158595-5169.jpg?size=626&ext=jpg",
+       "authorPic": "https://img.freepik.com/free-photo/cheerful-teen-girl-with-pencil_23-2147860689.jpg?w=360&t=st=1680205378~exp=1680205978~hmac=59f4063fc6618333d9fced8707531a521c120ef8c5975939a213dd0b079dbde8",
+       "BlogName": "How to manage time during ramadan",
+       "name": "Teresa Olsen",
+       "time": "{integer(0, 60)}",
+       "date": "2022-10-18"
+    },
+    {
+       "id": "6425c8e1f83dbadcb834cd04",
+       "picture": "https://www.freepik.com/free-photo/male-indian-programmer-working-desktop-computer-white-desk-office_9314161.htm#query=programming&position=23&from_view=search&track=sph",
+       "authorPic": "https://img.freepik.com/free-photo/adult-business-woman-eyeglasses-looks-into-camera-holds-paper-tablet_197531-18114.jpg?w=360&t=st=1680205369~exp=1680205969~hmac=f3b14785fc1b0f98a3e1afbc62258c749cb022be9bdf6ef0c3ce5027c07d50de",
+       "BlogName": "How to manage Study during skill growing period",
+       "name": "Nieves Gill",
+       "time": "{integer(0, 60)}",
+       "date": "2022-10-28"
+    }
+ ]
